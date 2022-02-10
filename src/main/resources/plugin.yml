@@ -1,0 +1,10 @@
+name: Freezer
+version: 1.0-SNAPSHOT
+main: com.ddang_.freezer.Freezer
+api-version: 1.18
+authors: [ DDang_ ]
+description: Minecraft 1.18.1 Player Freezing Plugin
+commands:
+  f:
+    aliases: freezer
+    description: Freezer Plugin Main Command
